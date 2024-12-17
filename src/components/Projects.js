@@ -118,12 +118,12 @@ export const Projects = () => {
         <div className="project-bx">
         <h2>Why I code</h2>
               <p>
-              Software projects allow me to tap into my creativity and problem-solving skills, 
+              Software projects allow me to tap into my creativity and problem-solving abilities, 
               and I thrive on the challenges that come with developing websites and applications. 
-              I particularly enjoy working with React, as it gives me the flexibility to build dynamic, 
+              I especially enjoy working with React, as it offers the flexibility to create dynamic, 
               responsive interfaces while providing a smooth user experience. 
-              The process of turning ideas into functional, engaging web solutions is both rewarding and exciting, 
-              and it keeps me motivated to keep learning and improving my skills. 
+              Transforming ideas into functional, engaging web solutions is both rewarding and exciting, 
+              fueling my passion for continuous learning and skill improvement. 
               </p>
       </div>
       </Container>
