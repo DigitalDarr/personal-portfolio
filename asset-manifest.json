@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.55063e51.css",
+    "main.js": "/personal-portfolio/static/js/main.b9b91415.js",
+    "static/js/488.9561f9b8.chunk.js": "/personal-portfolio/static/js/488.9561f9b8.chunk.js",
+    "static/media/project-img6.png": "/personal-portfolio/static/media/project-img6.77ea0d5fde2af610f535.png",
+    "static/media/project-img1.png": "/personal-portfolio/static/media/project-img1.bcb0e3301cbf8b47de9c.png",
+    "static/media/project-img4.png": "/personal-portfolio/static/media/project-img4.7c4e38d054a2aa1e1929.png",
+    "static/media/next.webp": "/personal-portfolio/static/media/next.ccb89f2bcd0102c1bb38.webp",
+    "static/media/banner-bg.png": "/personal-portfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/CentraNo2-Bold.ttf": "/personal-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/personal-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/personal-portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/postgresql.webp": "/personal-portfolio/static/media/postgresql.9f3d095883579d09fbf4.webp",
+    "static/media/project-img5.png": "/personal-portfolio/static/media/project-img5.aa9b5b12a4bcb3356209.png",
+    "static/media/footer-bg.png": "/personal-portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/project-img2.png": "/personal-portfolio/static/media/project-img2.058289e7ac277bba3e47.png",
+    "static/media/mongoDB.webp": "/personal-portfolio/static/media/mongoDB.e8eaa7f780a0a92a1f7b.webp",
+    "static/media/project-img3.png": "/personal-portfolio/static/media/project-img3.9f0fc0e2ec970034f617.png",
+    "static/media/bootstrap.webp": "/personal-portfolio/static/media/bootstrap.ab096544bfa83147cc22.webp",
+    "static/media/header-img.jpg": "/personal-portfolio/static/media/header-img.666d81dabb0dc66e9d23.jpg",
+    "static/media/react.webp": "/personal-portfolio/static/media/react.3214a908e9b5c30e0d54.webp",
+    "static/media/express.webp": "/personal-portfolio/static/media/express.5611a447732cdd59dc78.webp",
+    "static/media/git.webp": "/personal-portfolio/static/media/git.660382cffb028e227f7e.webp",
+    "static/media/html.webp": "/personal-portfolio/static/media/html.32e395d4fe729e6d2f48.webp",
+    "static/media/node.webp": "/personal-portfolio/static/media/node.0c2f6d841822f7e01c3f.webp",
+    "static/media/css.webp": "/personal-portfolio/static/media/css.d725f21a811cb4ae74c7.webp",
+    "static/media/javascript.webp": "/personal-portfolio/static/media/javascript.82fbe91fa45550f25d32.webp",
+    "static/media/nav-icon3.svg": "/personal-portfolio/static/media/nav-icon3.97ed8e7eef60d61ca469881dd6f34511.svg",
+    "static/media/nav-icon2.svg": "/personal-portfolio/static/media/nav-icon2.42e709f97025bfb3a0650ede063010cd.svg",
+    "index.html": "/personal-portfolio/index.html",
+    "static/media/nav-icon1.svg": "/personal-portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.55063e51.css.map": "/personal-portfolio/static/css/main.55063e51.css.map",
+    "main.b9b91415.js.map": "/personal-portfolio/static/js/main.b9b91415.js.map",
+    "488.9561f9b8.chunk.js.map": "/personal-portfolio/static/js/488.9561f9b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55063e51.css",
+    "static/js/main.b9b91415.js"
+  ]
+}
