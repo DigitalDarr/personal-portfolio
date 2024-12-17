@@ -65,7 +65,7 @@ export const Banner = () => {
                     </span>
                   </h1>
                   <p>
-                    With an expertise in full-stack development, specializing in JavaScript, React, SQL databases, and RESTful API architecture, 
+                    With expertise in full-stack development, specializing in JavaScript, React, SQL databases, and RESTful API architecture, 
                     I am dedicated to building impactful, scalable solutions that deliver seamless user experiences and robust back-end systems. 
                     My work is rooted in a commitment to accessibility and capacity building in marginalized communities, 
                     ensuring technology serves as an inclusive and empowering tool for all.
