@@ -12,7 +12,6 @@ export const Banner = () => {
 
   const period = 2000;
 
-  // Move toRotate inside useCallback to prevent it from being a dependency
   const tick = useCallback(() => {
     const toRotate = ["Software Engineer", "lover of Culture and History", "Community-focused Security Advocate"];
     let i = loopNum % toRotate.length;
