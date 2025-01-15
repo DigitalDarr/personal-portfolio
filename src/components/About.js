@@ -25,9 +25,9 @@ export const About = () => {
           <Col size={12} md={6}>
                 <div>
                 <h2>A little more about me</h2>
-                <p>A curious-by-nature person, I’ve always been eager to explore and understand the world around me. With a background in anthropology and archaeology, I developed strong research and analytical skills while uncovering the stories of history and cultures. This same curiosity and problem-solving mindset led me to transition into software engineering, where I thrive on researching complex challenges and building innovative solutions.</p> 
-                <p>My research-driven approach allows me to dissect problems, uncover patterns, and design impactful, scalable software. I’m also committed to continuous learning, holding certifications in CompTIA Security+, CompTIA A+, and ISC2 Cybersecurity.</p>
-                <p>Outside of work, I value connecting with others in the industry, especially Black women in tech. When I’m not coding, you’ll find me enjoying a good meme, solving sudoku puzzles, watching anime, reading fantasy books, adventuring with my family, or sipping on coffee.</p>             
+                <p>Before diving into software engineering, I spent years exploring the world of anthropology and archaeology, uncovering history’s hidden stories. That same curiosity and love for problem-solving sparked my transition into tech, where I now channel my research skills into unraveling complex challenges and building creative, effective solutions.</p> 
+                <p>As someone who thrives on learning, I hold certifications in CompTIA Security+, CompTIA A+, and ISC2 Cybersecurity. I see every day as a chance to grow, connect, and leave my mark in the world of technology.</p>
+                <p>When I’m not immersed in code, you’ll probably find me laughing at memes, conquering sudoku puzzles, or binging anime. I’m also a fantasy bookworm, a coffee aficionado, and an adventurer at heart, always seeking out new experiences with my family.</p>             
               </div> 
           </Col>
         </Row>
