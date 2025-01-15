@@ -64,10 +64,9 @@ export const Banner = () => {
                     </span>
                   </h1>
                   <p>
-                    With expertise in full-stack development, specializing in JavaScript, React, SQL databases, and RESTful API architecture, 
-                    I am dedicated to building impactful, scalable solutions that deliver seamless user experiences and robust back-end systems. 
-                    My work is rooted in a commitment to accessibility and capacity building in marginalized communities, 
-                    ensuring technology serves as an inclusive and empowering tool for all.
+                    With a knack for full-stack development, I specialize in JavaScript, React, SQL databases, and RESTful API architecture.
+                    My mission? To create impactful, scalable solutions that seamlessly blend intuitive user experiences with robust and reliable back-end systems.
+                    But my work goes beyond just the code—I’m deeply committed to accessibility and empowering marginalized communities, ensuring technology is a force for inclusion and opportunity.
                   </p>
                 </div>
               }
