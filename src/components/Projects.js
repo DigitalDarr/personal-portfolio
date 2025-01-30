@@ -35,7 +35,7 @@ export const Projects = () => {
       tech: ["html", "css", "javascript", "github"],
     },
     {
-      title: "Robo-Twins",
+      title: "Book-Hub",
       description: "Dancing robot animations using CSS and HTML.",
       imgUrl: projImg5,
       githubUrl: "https://github.com/DigitalDarr/robo-twins",
